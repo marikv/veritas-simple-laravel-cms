@@ -79,6 +79,7 @@ $locale = \App\Http\Controllers\Application\LangController::getLocale();
     </div>
 </nav>
 
+
 <script>
     let lastKnownScrollPosition = 0;
     let ticking = false;
